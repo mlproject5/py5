@@ -1,0 +1,2 @@
+ccard==0.2.0
+streamlit==1.22.0
